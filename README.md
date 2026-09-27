@@ -1,61 +1,72 @@
-# Hey, I'm Jordan 👋
+# ⚔️ 0xJORDAN // ⚔️
 
-> **Understand the system. Find the weakness. Build something better.**
+```
+   /-----------------------------------------------------------\
+  |  [+] CREED:  UNDERSTAND THE SYSTEM. FIND THE WEAKNESS.    |
+  |  [+] ORDER:  BUILD SOMETHING BETTER. PROTECT THE REALM.   |
+   \-----------------------------------------------------------/
+```
 
-I'm a technology professional specializing in **offensive security, systems engineering, platform research, and software development**. My work spans vulnerability research, low-level reverse engineering, automated security tooling, and custom software solutions across Linux, Android, and embedded/restricted platforms.
-
----
-
-### 🛡️ Core Expertise
-
-* **Offensive Security:** Penetration Testing • Exploit Development • Vulnerability Research • Web Security
-* **Systems & Reverse Engineering:** Reverse Engineering • Homebrew / Console Research • Platform Modification
-* **Software & Automation:** C/C++ • Rust • Python • Java / Android • Web Scraping & Automation
-* **Infrastructure:** Systems Administration • Linux • Docker • DevOps & CI/CD Pipelines
+> *"Non nobis, Domine, non nobis, sed nomini tuo da gloriam."*  
+> **Forging secure code, breaching digital fortresses, defining databases.**
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛡️ THE BATTLEFIELD & SKILL TREE
+
+```gdb
+(gdb) info capabilities
+[+] OFFENSIVE SECURITY  :: PenTesting • Exploit Dev • Vuln Research • Web Sec
+[+] REVERSE ENGINEERING :: Systems Engineering • Homebrew / Console • Platform Mods
+[+] DIGITAL FORGE       :: C/C++ • Rust • Python • Java / Android • Automation
+[+] BARK & BARRICADE    :: SysAdmin • Hardened Linux • Docker • CI/CD Pipelines
+```
+
+---
+
+### ⚡ ARSENAL & TECH STACK
 
 **Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Domains & Tools**
-
+**Tactical Domains**
 `Penetration Testing` `Exploit Dev` `Reverse Engineering` `AsyncIO` `Android SDK` `Docker` `Linux` `Git / CI/CD`
 
 ---
 
-### 🚀 Featured Projects
+### ⚔️ HOLY RELICS & FEATURED PROJECTS
 
 #### 📱 [OpenCatholic](https://github.com/JordanAllen101/OpenCatholic)
-> **Open-source Catholic companion application for Android**
-* Native Android app delivering clean, accessible Catholic resources and tools in one unified interface.
+> **Open-Source Faith Companion // Android Realm**
+* Native Android application delivering clean, accessible Catholic resources and devotions within a unified, secure interface.
 * **Tech:** `Java` `Android SDK` `XML` `Open Source`
 
 #### 🌐 [aioprox](https://github.com/JordanAllen101/aioprox)
-> **High-performance asynchronous proxy manager for Python**
-* Built with `asyncio` to concurrently fetch, test latency, validate protocols (HTTP/SOCKS), and filter proxies from custom sources.
+> **High-Performance Async Proxy Vanguard**
+* Asynchronous network scanner built with `asyncio` to validate SOCKS/HTTP protocols, measure latency, and shield data routing.
 * **Tech:** `Python` `AsyncIO` `Networking` `Concurrency`
 
-#### 💀 Exploit Development & Security Research
-> **Vulnerability analysis, offensive tooling, and exploit POCs**
-* Research repository focused on low-level memory corruption, reverse engineering targets in controlled environments, and custom security scripts.
+#### 💀 [Exploit Development & Security Research](https://github.com/JordanAllen101)
+> **Digital Siege Engines & Vulnerability Analysis**
+* Offensive research repository dedicated to low-level memory corruption, binary exploitation, and custom security payloads.
 * **Tech:** `C` `C++` `Rust` `Assembly` `Linux`
 
-#### 🧩 Homebrew & Platform Research
-> **Custom software and internals research on restricted hardware**
-* Research into closed/restricted platform architectures, custom payloads, jailbreak mechanisms, and specialized homebrew software.
+#### 🧩 [Homebrew & Platform Research](https://github.com/JordanAllen101)
+> **Restricted Hardware Breaches & Console Engineering**
+* Low-level research into locked platform architectures, custom firmware, jailbreak payloads, and specialized homebrew software.
 * **Tech:** `C` `C++` `Systems Programming` `Reverse Engineering`
 
-#### 🕷️ Web Automation & Scraping Tools
-> **Scalable data extraction and browser automation engines**
-* A collection of automated scraping frameworks and browser automation setups designed for efficient data harvesting and dynamic site parsing.
+#### 🕷️ [Web Automation Engines](https://github.com/JordanAllen101)
+> **Reconnaissance & Data Harvesting Frameworks**
+* Scalable browser automation and data extraction suite designed for high-speed site parsing and digital intelligence collection.
 * **Tech:** `Python` `Web Automation` `Scraping`
 
 ---
 
-### 📫 Connect
+### 📡 SECURE TRANSMISSIONS
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanAllen101)
+[![GitHub](https://img.shields.io/badge/COMMUNICATION_LINK-181717?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/JordanAllen101)
