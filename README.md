@@ -17,26 +17,24 @@ I'm a technology professional specializing in **offensive security, systems engi
 
 ### 🧰 Tech Stack & Tools
 
-**Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Languages**
 
-**Domains & Tools**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Domains & Tools**
+
 `Penetration Testing` `Exploit Dev` `Reverse Engineering` `AsyncIO` `Android SDK` `Docker` `Linux` `Git / CI/CD`
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📱 [OpenCatholic](https://github.com/yourusername/opencatholic)
+#### 📱 [OpenCatholic](https://github.com/JordanAllen101/OpenCatholic)
 > **Open-source Catholic companion application for Android**
 * Native Android app delivering clean, accessible Catholic resources and tools in one unified interface.
 * **Tech:** `Java` `Android SDK` `XML` `Open Source`
 
-#### 🌐 [aioprox](https://github.com/yourusername/aioprox)
+#### 🌐 [aioprox](https://github.com/JordanAllen101/aioprox)
 > **High-performance asynchronous proxy manager for Python**
 * Built with `asyncio` to concurrently fetch, test latency, validate protocols (HTTP/SOCKS), and filter proxies from custom sources.
 * **Tech:** `Python` `AsyncIO` `Networking` `Concurrency`
@@ -60,5 +58,4 @@ I'm a technology professional specializing in **offensive security, systems engi
 
 ### 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanAllen101)
